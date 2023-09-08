@@ -1,0 +1,61 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+
+# macOS folder attributes
+__MACOSX/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Compiled Java files
+*.class
+
+# Compiled Ruby files
+*.rbc
+
+# Compiled C/C++ files
+*.o
+*.out
+*.obj
+
+# Temporary files
+*.swp
+*~
+.#*
+._*
+
+# Log files
+*.log
+
+# IntelliJ IDEA files
+.idea/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# macOS code-signing files
+*.p12
+
+# Xcode files
+*.xcuserstate
+*.xcworkspace
+xcuserdata/
+
+# AppCode files
+.idea_caches/
+.idea_modules/
+
+# Android Studio files
+.gradle/
+.idea/
+build/
+
+# Visual Studio Code files
+.vscode/
