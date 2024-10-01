@@ -1546,7 +1546,7 @@ article img.pull-right, article .align-right{
 @media (max-width: 767px) {
 .navbar-default .navbar-collapse{
 border-color: none;
-background: #007AD5;
+background: white;
 }
 
 
@@ -1614,8 +1614,7 @@ padding-top: 3px;
 	li.active  {
 		border: none;
 		overflow: hidden;
-	
-		background: #036BBD;
+		background: grey;
 }
 
 	
